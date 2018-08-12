@@ -1,2 +1,3 @@
-var meals = 
-Object.assign
+var playlist = {
+  artist: "Girl"
+}
